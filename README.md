@@ -232,7 +232,7 @@ The custom tool did not fully comply with CrewAI’s expected interface.
 **Fix:**
 Refactored the implementation to properly extend and align with CrewAI’s BaseTool structure.
 
-## 6. Function Name Shadowing
+### 6. Function Name Shadowing
 
 A function name conflicted with a variable name, causing unexpected behavior.
 
